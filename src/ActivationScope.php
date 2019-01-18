@@ -1,6 +1,6 @@
 <?php
 
-namespace IslemKms\Activables;
+namespace IslemKms\Activable;
 
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Builder;
